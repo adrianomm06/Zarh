@@ -1,0 +1,7 @@
+{"name":"_fql_quests","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"1IKf3ee25AvwDxzH"}
+{"name":"Mundo Zarh","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"7QF1w92Km6G1rCMU"}
+{"name":"Armas","type":"Item","sort":100000,"flags":{},"parent":"I9DJHwsUI4nwQrsW","sorting":"a","color":"","_id":"83wPfk79ZLSafqW4"}
+{"name":"Items","type":"Item","sort":null,"flags":{},"parent":"rnCWiGorh28u4CAk","sorting":"a","color":"","_id":"I9DJHwsUI4nwQrsW"}
+{"name":"Vilarejo","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#239a41","_id":"q2hZm31VrdVcrRZR"}
+{"name":"Pick-Up-Stix","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"rnCWiGorh28u4CAk"}
+{"name":"Tokens","type":"Item","sort":null,"flags":{},"parent":"rnCWiGorh28u4CAk","sorting":"a","color":"","_id":"wO1ONLGyIghYwVum"}
