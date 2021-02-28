@@ -4,4 +4,11 @@
 {"name":"Items","type":"Item","sort":null,"flags":{},"parent":"rnCWiGorh28u4CAk","sorting":"a","color":"","_id":"I9DJHwsUI4nwQrsW"}
 {"name":"Vilarejo","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#239a41","_id":"q2hZm31VrdVcrRZR"}
 {"name":"Pick-Up-Stix","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"rnCWiGorh28u4CAk"}
+{"_id":"tgBiT9T3wf4JZQmG","name":"Crivon","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#0ba825"}
 {"name":"Tokens","type":"Item","sort":null,"flags":{},"parent":"rnCWiGorh28u4CAk","sorting":"a","color":"","_id":"wO1ONLGyIghYwVum"}
+{"name":"Cenários","type":"Scene","sort":100000,"flags":{},"parent":"q2hZm31VrdVcrRZR","sorting":"a","color":"","_id":"yfSYzYPNWpv6Y72K"}
+{"name":"Taverna","type":"Scene","sort":200000,"flags":{},"parent":"yfSYzYPNWpv6Y72K","sorting":"a","color":"","_id":"A1d3je3Jkdyig1hf"}
+{"$$deleted":true,"_id":"A1d3je3Jkdyig1hf"}
+{"name":"Jogadores","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#ffffff","_id":"AqRZZP2UL2FnNkIw"}
+{"_id":"AqRZZP2UL2FnNkIw","name":"Jogadores","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#030303"}
+{"_id":"q2hZm31VrdVcrRZR","name":"Crivon","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#239a41"}
